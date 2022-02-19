@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Babette C. TCHONANG"
+  name             : "Babette Christelle TCHONANG"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Research Fellow"
-  employer         : "NASA Jet Propulsion Laboratory"
+  bio              : "Postdoctoral Research Fellow at NASA Jet Propulsion Laboratory"
+  employer         : #"NASA Jet Propulsion Laboratory"
   location         : "Pasadena, California"
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
