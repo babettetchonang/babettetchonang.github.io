@@ -83,10 +83,10 @@ author:
   name             : "Babette C. TCHONANG"
   avatar           : "profile.jpg"
   bio              : "Postdoctoral Research Fellow"
-  location         : "4800 Oak Grove Dr, M/S 300-329, Pasadena, CA 91109"
   employer         : "NASA Jet Propulsion Laboratory"
+  location         : "Pasadena, California"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "tchonang@jpl.nasa.gov"
   researchgate     : "https://www.researchgate.net/profile/Babette-Tchonang"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/babette-christelle-tchonang-19a374120/"
+  linkedin         : "babette-christelle-tchonang-19a374120"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "TchonangB"
   vine             :
   weibo            :
   xing             :
