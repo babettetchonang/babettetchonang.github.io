@@ -6,15 +6,9 @@ author_profile: true
 ---
 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+• **Tchonang, B. C.**, Benkiran, M., Le Traon, P. Y., Jan Van Gennip, S., Lellouche, J. M., & Ruggiero, G. (2021). Assessing the impact of the assimilation of SWOT observations in a global high-resolution analysis and forecasting system. Part 2: Results. *Frontiers in Marine Science*, 1208. [https://doi.org/10.3389/fmars.2021.687414](https://doi.org/10.3389/fmars.2021.687414)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+• Benkiran, M., Ruggiero, G., Greiner, E., Le Traon, P. Y., Rémy, E., Lellouche, J. M., ... & **Tchonang, B.** (2021). Assessing the Impact of the Assimilation of SWOT Observations in a Global HighResolution Analysis and Forecasting System Part 1: Methods. *Frontiers in Marine Science*, 947. [https://doi.org/10.3389/fmars.2021.691955](https://doi.org/10.3389/fmars.2021.691955)
 
 
 Dissertations
