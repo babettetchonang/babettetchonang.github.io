@@ -15,5 +15,3 @@ Last Posts
 ---
 1st post
 
-------
-<sub><sup>This website were built from [academicpages](https://academicpages.github.io/markdown/).</sup></sub>
