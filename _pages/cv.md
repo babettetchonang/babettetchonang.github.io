@@ -98,9 +98,7 @@ COMPUTER SKILLS
 
 
 
-Publications
+PUBLICATIONS
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[Please see publication secion](https://babettetchonang.github.io/publications/)
   
