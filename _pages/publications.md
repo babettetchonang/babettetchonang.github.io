@@ -28,12 +28,12 @@ Techniques, Chaire internationale en Physique Mathématique et Applications* (CI
 
 Conferences and Posters
 ------
-▪ **The second international Operational Satellite Oceanography Symposium (OSOS-2)**: May 25-27, 2021 (online). **Oral presentation**: Assessing the impact of the assimilation of SWOT observations in a global high-resolution analysis and forecasting system.
+▪ *The second international Operational Satellite Oceanography Symposium (OSOS-2)*: May 25-27, 2021 (online). **Oral presentation**: Assessing the impact of the assimilation of SWOT observations in a global high-resolution analysis and forecasting system.
 
-▪ **General assembly of European Geosciences Union (EGU)**, Vienna, Austria, session: Ocean Science 4.7 (O.S4.7) 07–12 Avr.2019. **Oral presentation**: How can Surface Water Ocean Topography (SWOT) satellite better reconstruct horizontal and vertical velocities?
+▪ *General assembly of European Geosciences Union (EGU)*, Vienna, Austria, session: Ocean Science 4.7 (O.S4.7) 07–12 Avr.2019. **Oral presentation**: How can Surface Water Ocean Topography (SWOT) satellite better reconstruct horizontal and vertical velocities?
 
-▪ **Conference of the Parties 24 (COP24) Katowice**: On behalf of Partnership for Observation of the Global Oceans (POGO) Society, Katowice, Poland. 6-8 Dec. 2018.
+▪ *Conference of the Parties 24 (COP24) Katowice*: On behalf of Partnership for Observation of the Global Oceans (POGO) Society, Katowice, Poland. 6-8 Dec. 2018.
 
-▪ **25th years of Progress in Radar Altimetry Symposium: European Space Agency (ESA) and Centre Nationnal d’Etudes Spatiales (CNES)**, Ponta Delgada, Portugal, 27–29 Sept. 2018. Poster: How can Surface Water Ocean Topography (SWOT) satellite better reconstruct horizontal and vertical velocities?
+▪ *25th years of Progress in Radar Altimetry Symposium: European Space Agency (ESA) and Centre Nationnal d’Etudes Spatiales (CNES)*, Ponta Delgada, Portugal, 27–29 Sept. 2018. Poster: How can Surface Water Ocean Topography (SWOT) satellite better reconstruct horizontal and vertical velocities?
 
-▪ **Conference of the Parties 23 (COP23)** Fiji: On behalf of Partnership for Observation of the Global Oceans (POGO) Society, Bonn, Germany, 6–17 Nov. 2017.
+▪ *Conference of the Parties 23 (COP23)* Fiji: On behalf of Partnership for Observation of the Global Oceans (POGO) Society, Bonn, Germany, 6–17 Nov. 2017.
