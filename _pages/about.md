@@ -14,7 +14,7 @@ I am a physical oceanographer in the [Ocean Circulation and Air-Sea Interaction 
 
 They talked about me :
 ---
-* Voice Interview at Vox of America (french) :  <a href="https://www.voaafrique.com/a/rencontre-babette-christelle-tchonang-de-dschang-%C3%A0-la-nasa/6434226.html" target="_blank"> Link </a>
+* Interview at Voice of America (french) :  <a href="https://www.voaafrique.com/a/rencontre-babette-christelle-tchonang-de-dschang-%C3%A0-la-nasa/6434226.html" target="_blank"> Link </a>
 <iframe src="https://www.voaafrique.com/a/rencontre-babette-christelle-tchonang-de-dschang-%C3%A0-la-nasa/6434226.html" frameborder="0" scrolling="no" width="100%" height="300" allowfullscreen></iframe>
 
 &nbsp;
