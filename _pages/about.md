@@ -12,13 +12,22 @@ I am a physical oceanographer in the [Ocean Circulation and Air-Sea Interaction 
 
 &nbsp; &nbsp;
 
-They talked about me
+They talked about me :
 ---
 * Voice Interview at Vox of America (french) :  <a href="https://www.voaafrique.com/a/rencontre-babette-christelle-tchonang-de-dschang-%C3%A0-la-nasa/6434226.html" target="_blank"> Link </a>
 <iframe src="https://www.voaafrique.com/a/rencontre-babette-christelle-tchonang-de-dschang-%C3%A0-la-nasa/6434226.html" frameborder="0" scrolling="no" width="100%" height="250" allowfullscreen></iframe>
 
 &nbsp;
 
-* TV reportage of Cameroonian TV, Canal 2 International : 
+* Reportage of Cameroonian TV, Canal 2 International (French): 
  <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F712606962448587%2Fvideos%2F986199315327989%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
  
+&nbsp;
+
+* Africawomenexperts News :  <a href="http://africawomenexperts.com/lng/en/2022/02/babette-christelle-tchonang-a-cameroonian-physicist-joins-nasa/" target="_blank"> Link </a>
+<iframe src="http://africawomenexperts.com/lng/en/2022/02/babette-christelle-tchonang-a-cameroonian-physicist-joins-nasa/" frameborder="0" scrolling="no" width="100%" height="250" allowfullscreen></iframe>
+
+&nbsp;
+
+* Complete interview at projecteurmagazine (French):  <a href="https://projecteurmagazine.cm/christelle-babette-tchonang-je-croyais-que-la-nasa-cetait-pour-les-autres-je-vis-mon-reve/" target="_blank"> Link </a>
+<iframe src="https://projecteurmagazine.cm/christelle-babette-tchonang-je-croyais-que-la-nasa-cetait-pour-les-autres-je-vis-mon-reve/" frameborder="0" scrolling="no" width="100%" height="250" allowfullscreen></iframe>
