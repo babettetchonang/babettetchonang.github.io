@@ -18,8 +18,11 @@ Dissertations
 ------
 ▪ **Tchonang, B. C.** (2021). Contribution du satellite SWOT (Surface Water Ocean Topography) pour l'analyse et la prévision océanique (*Doctoral dissertation, Université de Toulouse, Université Toulouse III-Paul Sabatier*) [http://thesesups.ups-tlse.fr/5111/1/2021TOU30125.pdf](http://thesesups.ups-tlse.fr/5111/1/2021TOU30125.pdf).
 
-▪ **Tchonang, B. C.** & Jouanno J. (2015). Echange de traceurs passifs entre la surface et la subsurface du golf du Mexique. *Université d’Abomey-Calavi, Faculté des Sciences et
-Techniques, Chaire internationale en Physique Mathématique et Applications* (CIPMA-UNESCO Chair) [http://www.cipma.net/IMG/pdf/tchonang_rapport_m2oa_2016.pdf](http://www.cipma.net/IMG/pdf/tchonang_rapport_m2oa_2016.pdf).
+▪ **Tchonang, B. C.**, Hattermann, T. & Ryan, S. (2017). Seasonal inflow of warm Deep Water (WDW) in the continental shelf in the Filchner Ronne ice shelf (*Post-Master dissertation, Helmholtz Centre for Polar and Marine Research, Alfred Wegener Institute*)  <a href="https://babettetchonang.github.io/files/files/Babette_POGO_research_project.pdf" target="_blank"> https://babettetchonang.github.io/files/files/Babette_POGO_research_project.pdf. </a>
+
+
+
+▪ **Tchonang, B. C.** & Jouanno J. (2015). Echange de traceurs passifs entre la surface et la subsurface du golf du Mexique. *Université d’Abomey-Calavi, Faculté des Sciences et Techniques, Chaire internationale en Physique Mathématique et Applications* (CIPMA-UNESCO Chair [http://www.cipma.net/IMG/pdf/tchonang_rapport_m2oa_2016.pdf](http://www.cipma.net/IMG/pdf/tchonang_rapport_m2oa_2016.pdf).
 
 
 Conferences and Posters
