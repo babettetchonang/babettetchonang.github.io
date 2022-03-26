@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://babettetchonang.github.io/files/CV_Tchonang_02-2022_jpl.pdf" target="_blank"> You can see and download my full CV here. </a>
+<a href="https://babettetchonang.github.io/files/CV_Tchonang_03-2022_jpl.pdf" target="_blank"> You can see and download my full CV here. </a>
 
 EDUCATION
 ======
