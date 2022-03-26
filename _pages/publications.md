@@ -18,7 +18,7 @@ Dissertations
 ------
 ▪ **Tchonang, B. C.** (2021). Contribution du satellite SWOT (Surface Water Ocean Topography) pour l'analyse et la prévision océanique (*Doctoral dissertation, Université de Toulouse, Université Toulouse III-Paul Sabatier*) [http://thesesups.ups-tlse.fr/5111/1/2021TOU30125.pdf](http://thesesups.ups-tlse.fr/5111/1/2021TOU30125.pdf).
 
-▪ **Tchonang, B. C.**, Hattermann, T. & Ryan, S. (2017). Seasonal inflow of warm Deep Water (WDW) in the continental shelf in the Filchner Ronne ice shelf (*Post-Master dissertation, Helmholtz Centre for Polar and Marine Research, Alfred Wegener Institute*)  <a href="https://babettetchonang.github.io/files/files/Babette_POGO_research_project.pdf" target="_blank"> https://babettetchonang.github.io/files/files/Babette_POGO_research_project.pdf. </a>
+▪ **Tchonang, B. C.**, Hattermann, T. & Ryan, S. (2017). Seasonal inflow of warm Deep Water (WDW) in the continental shelf in the Filchner Ronne ice shelf (*Post-Master dissertation, Helmholtz Centre for Polar and Marine Research, Alfred Wegener Institute*)  <a href="https://babettetchonang.github.io/files/Babette_POGO_research_project.pdf" target="_blank"> https://babettetchonang.github.io/files/Babette_POGO_research_project.pdf. </a>
 
 
 
